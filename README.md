@@ -1,2 +1,2 @@
-# Titanic-Challenge
-Titanic Challenge Survival Prediction
+# Data-Science-machine-learning-Challenge
+Predictions
